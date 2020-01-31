@@ -1,0 +1,163 @@
+
+
+
+*{margin: 0;
+padding: 0;}
+ body{
+ 	background-color: #f2f2f2;
+ 	margin: 0px;
+ 	padding: 0px;
+ 	font-family:tahoma; }
+
+ .contaire{width: 70%;
+ 	margin: auto;}
+
+
+
+ .one{background-image: url('../img/moor.jpg');
+width: 100%;
+height: 350px;
+background-size:cover;
+
+ }
+
+ .one .one-a i{font-size: 50px;
+ 	margin-top: 30px;
+ 	position: absolute;
+ 	left: 690px;
+ 	padding: 5px;
+ 	color: #ffffff;}
+
+ 	.one .one-a h1{text-align: center;
+ 		text-transform: uppercase;
+ 		font-size: 30px;
+ 		margin-top: 0px;
+ 		color: #ffffff}
+
+
+ 		.root {
+            border-top: none;
+            border-left: none;
+            border-right: none;
+            width: 90px;
+            border-bottom-color:#0080ff ; 
+            position: absolute;
+            right: 735px;
+        }
+
+ 		.one-b{width: 100%;
+ 			height: 60px;
+ 		}
+ 	 .one-b input{text-align: center;
+ 	 	margin-top: 30px;
+ 	 	width: 600px;
+ 	 	height: 30px;
+ 	 	position: absolute;
+ 	 	left: 450px;
+ 	 	padding: 15px;
+
+ 	 }
+
+  .one-b button{margin-top: 70px;
+  	width: 100px;
+  	height: 35px;
+  	position: absolute;
+  	left: 665px;
+  	padding: 5px;
+  	background-color:#ff9a9e;
+  	border: none;
+  	color: #ffffff;
+  	border-radius: 15px 15px;}
+
+.tow{width: 100%;
+height:500px;
+
+}
+
+.tow .tow-a{text-align: center;
+	margin-right:60px; 
+ }
+
+.tow-b{width: 100%;
+background-color:#ddd;
+;}
+
+
+.tow-s{width: 32%;
+float: left;
+margin-top: 60px;
+text-align: center;
+
+}
+
+.tow-s i{font-size: 60px;}
+
+.tow-s h1{text-align: center;
+padding: 5px;
+background-color: red;
+width: 300px;
+margin-top: 10px;}
+
+
+.tow-s p{text-align: center;
+padding: 10px;
+
+margin-top: 10px;
+line-height: 50px;}
+
+
+.there{width: 100%;
+margin: auto;
+margin-top: 10px;
+background-color: #00bcd4;
+height: 500px;}
+
+
+
+.there-a h1{text-align: center;
+padding: 5px;
+width: 980px;
+margin-top: 10px;}
+
+
+.there-b{width: 100%;
+
+height: 300px;
+text-align: center;
+padding-top:  90px;}
+
+
+.there-b label{text-align: left;
+                padding: 50px;}
+
+.there-b input{width: 250px;
+               height: 30px;}
+
+.there-b select{width: 250px;
+height: 30px;
+}
+
+.there-b .to{width: 20px;}
+
+.footer{background-color: #292727;
+height: 200px;}
+
+.footer-a{float: right;
+font-size:50px;
+padding-top:60px;
+color:#ffffff;}
+
+.footer-a i{color: #ffffff;}
+
+
+.footer-b{float: left;
+font-size:10px;
+padding-top:60px;
+color:#ffffff;}
+
+.footer-b h1{color: #ffffff;
+padding: 30px;}
+
+.footer-b p{color: #ffffff;
+padding: 10px;
+padding-left: 30px;}
